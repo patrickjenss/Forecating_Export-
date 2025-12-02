@@ -1,4 +1,4 @@
-# Forecating_Export-
+# Forecating_Export
 Forecast for potential export indonesia in 2026
 
 ## Forecasting Ekspor Indonesia dengan SARIMA
